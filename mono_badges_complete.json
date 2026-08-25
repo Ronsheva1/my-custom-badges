@@ -1,0 +1,30 @@
+[
+  {
+    "name": "4k",
+    "regex": "\\b(4k|2160p)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/4k.png"
+  },
+  {
+    "name": "1080p",
+    "regex": "\\b(1080p|fhd)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/1080p.png"
+  },
+  {
+    "name": "720p",
+    "regex": "\\b(720p|hd)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/720p.png"
+  },
+  {
+    "name": "remux",
+    "regex": "\\b(remux)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/remux.png"
+  },
+  {
+    "name": "bluray",
+    "regex": "\\b(bluray|blu-ray|bdrip|brrip)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/bluray.png"
+  },
+  {
+    "name": "webdl",
+    "regex": "\\b(web-dl|webdl|webrip)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/
