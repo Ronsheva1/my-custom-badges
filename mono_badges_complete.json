@@ -1,127 +1,123 @@
-{
-  "name": "Mono Complete Badges",
-  "author": "Ronsheva1",
-  "version": "1.0.0",
-  "badges": [
-    {
-      "name": "4k",
-      "regex": "\\b(4k|2160p)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/4k.png"
-    },
-    {
-      "name": "1080p",
-      "regex": "\\b(1080p|fhd)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/1080p.png"
-    },
-    {
-      "name": "720p",
-      "regex": "\\b(720p|hd)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/720p.png"
-    },
-    {
-      "name": "remux",
-      "regex": "\\b(remux)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/remux.png"
-    },
-    {
-      "name": "bluray",
-      "regex": "\\b(bluray|blu-ray|bdrip|brrip)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/bluray.png"
-    },
-    {
-      "name": "webdl",
-      "regex": "\\b(web-dl|webdl|webrip)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/web-dl.png"
-    },
-    {
-      "name": "dolby vision",
-      "regex": "\\b(dv|dovi|dolby vision|dolby-vision)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dolby-vision.png"
-    },
-    {
-      "name": "hdr10+",
-      "regex": "\\b(hdr10\\+|hdr10plus)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/hdr10plus.png"
-    },
-    {
-      "name": "hdr10",
-      "regex": "\\b(hdr10)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/hdr10.png"
-    },
-    {
-      "name": "hdr",
-      "regex": "\\b(hdr)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/hdr.png"
-    },
-    {
-      "name": "imax",
-      "regex": "\\b(imax|imax enhanced)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/imax.png"
-    },
-    {
-      "name": "sdr",
-      "regex": "\\b(sdr)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/sdr.png"
-    },
-    {
-      "name": "dolby atmos",
-      "regex": "\\b(atmos|dolby atmos)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dolby-atmos.png"
-    },
-    {
-      "name": "dolby truehd",
-      "regex": "\\b(truehd|dolby truehd)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dolby-truehd.png"
-    },
-    {
-      "name": "dts-hd ma",
-      "regex": "\\b(dts-hd ma|dts-hd master audio|dts-hdma)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dts-hd-ma.png"
-    },
-    {
-      "name": "dts-x",
-      "regex": "\\b(dts-x|dtsx)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dtsx.png"
-    },
-    {
-      "name": "dts",
-      "regex": "\\b(dts)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dts.png"
-    },
-    {
-      "name": "dolby digital plus",
-      "regex": "\\b(dd\\+|ddp|eac3|dolby digital plus)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dolby-digital-plus.png"
-    },
-    {
-      "name": "dolby digital",
-      "regex": "\\b(dd|ac3|dolby digital)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dolby-digital.png"
-    },
-    {
-      "name": "7.1",
-      "regex": "\\b(7\\.1|8ch)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/7.1.png"
-    },
-    {
-      "name": "5.1",
-      "regex": "\\b(5\\.1|6ch)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/5.1.png"
-    },
-    {
-      "name": "hevc",
-      "regex": "\\b(hevc|h265|h\\.265|x265)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/hevc.png"
-    },
-    {
-      "name": "avc",
-      "regex": "\\b(avc|h264|h\\.264|x264)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/avc.png"
-    },
-    {
-      "name": "av1",
-      "regex": "\\b(av1)\\b",
-      "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/av1.png"
-    }
-  ]
-}
+[
+  {
+    "name": "4k",
+    "regex": "\\b(4k|2160p)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/4k.png"
+  },
+  {
+    "name": "1080p",
+    "regex": "\\b(1080p|fhd)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/1080p.png"
+  },
+  {
+    "name": "720p",
+    "regex": "\\b(720p|hd)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/720p.png"
+  },
+  {
+    "name": "remux",
+    "regex": "\\b(remux)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/remux.png"
+  },
+  {
+    "name": "bluray",
+    "regex": "\\b(bluray|blu-ray|bdrip|brrip)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/bluray.png"
+  },
+  {
+    "name": "webdl",
+    "regex": "\\b(web-dl|webdl|webrip)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/web-dl.png"
+  },
+  {
+    "name": "dolby vision",
+    "regex": "\\b(dv|dovi|dolby vision|dolby-vision)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dolby-vision.png"
+  },
+  {
+    "name": "hdr10+",
+    "regex": "\\b(hdr10\\+|hdr10plus)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/hdr10plus.png"
+  },
+  {
+    "name": "hdr10",
+    "regex": "\\b(hdr10)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/hdr10.png"
+  },
+  {
+    "name": "hdr",
+    "regex": "\\b(hdr)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/hdr.png"
+  },
+  {
+    "name": "imax",
+    "regex": "\\b(imax|imax enhanced)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/imax.png"
+  },
+  {
+    "name": "sdr",
+    "regex": "\\b(sdr)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/sdr.png"
+  },
+  {
+    "name": "dolby atmos",
+    "regex": "\\b(atmos|dolby atmos)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dolby-atmos.png"
+  },
+  {
+    "name": "dolby truehd",
+    "regex": "\\b(truehd|dolby truehd)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dolby-truehd.png"
+  },
+  {
+    "name": "dts-hd ma",
+    "regex": "\\b(dts-hd ma|dts-hd master audio|dts-hdma)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dts-hd-ma.png"
+  },
+  {
+    "name": "dts-x",
+    "regex": "\\b(dts-x|dtsx)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dtsx.png"
+  },
+  {
+    "name": "dts",
+    "regex": "\\b(dts)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dts.png"
+  },
+  {
+    "name": "dolby digital plus",
+    "regex": "\\b(dd\\+|ddp|eac3|dolby digital plus)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dolby-digital-plus.png"
+  },
+  {
+    "name": "dolby digital",
+    "regex": "\\b(dd|ac3|dolby digital)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/dolby-digital.png"
+  },
+  {
+    "name": "7.1",
+    "regex": "\\b(7\\.1|8ch)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/7.1.png"
+  },
+  {
+    "name": "5.1",
+    "regex": "\\b(5\\.1|6ch)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/5.1.png"
+  },
+  {
+    "name": "hevc",
+    "regex": "\\b(hevc|h265|h\\.265|x265)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/hevc.png"
+  },
+  {
+    "name": "avc",
+    "regex": "\\b(avc|h264|h\\.264|x264)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/avc.png"
+  },
+  {
+    "name": "av1",
+    "regex": "\\b(av1)\\b",
+    "url": "https://raw.githubusercontent.com/sweatycab/nuvio-minimalist-badges/main/white/av1.png"
+  }
+]
+
